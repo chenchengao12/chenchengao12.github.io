@@ -1,0 +1,43 @@
+body{background-color: Aquamarine;}
+
+h2{Text-shadow: 2px 2px green;}
+
+h1{
+  text-align:center;
+}
+
+h1{font-family:
+  fantasy;
+}
+
+h2{
+  text-align:justify;
+}
+
+h2{
+  font-size: xx-large;
+}
+
+h2{
+  text-align:center;
+}
+
+ul{
+  font-size: xx-large;
+}
+
+ul{
+  transform: rotate(5deg) translateY(15px) translateX(700px); 
+}
+
+h3{
+  font-size: xx-large;
+}
+
+h5{
+  font-size: xx-large;
+}
+
+h5{
+  text-align:center;
+}
